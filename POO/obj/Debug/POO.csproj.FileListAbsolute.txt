@@ -1,0 +1,7 @@
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\bin\Debug\POO.exe.config
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\bin\Debug\POO.exe
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\bin\Debug\POO.pdb
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\obj\Debug\POO.exe
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\POO\obj\Debug\POO.pdb

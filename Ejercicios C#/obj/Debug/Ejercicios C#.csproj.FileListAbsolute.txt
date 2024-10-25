@@ -1,0 +1,7 @@
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\bin\Debug\Ejercicios C#.exe.config
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\bin\Debug\Ejercicios C#.exe
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\bin\Debug\Ejercicios C#.pdb
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\obj\Debug\Ejercicios C#.csproj.AssemblyReference.cache
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\obj\Debug\Ejercicios C#.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\obj\Debug\Ejercicios C#.exe
+C:\Users\Tobias Tinaro\Downloads\Ejercicios C#\Ejercicios C#\obj\Debug\Ejercicios C#.pdb
